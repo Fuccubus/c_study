@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  exam1.cpp
+c:\users\kict-05\desktop\c_study\day3\exam1\exam1.cpp(172): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kict-05\desktop\c_study\day3\exam1\exam1.cpp(188): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kict-05\desktop\c_study\day3\exam1\exam1.cpp(203): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  exam1.vcxproj -> C:\Users\KICT-05\Desktop\c_study\day3\x64\Debug\exam1.exe
+  exam1.vcxproj -> C:\Users\KICT-05\Desktop\c_study\day3\x64\Debug\exam1.pdb (Partial PDB)
