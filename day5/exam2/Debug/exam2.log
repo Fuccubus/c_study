@@ -1,0 +1,4 @@
+﻿  exam2.cpp
+c:\users\kict-05\desktop\c_study\day5\exam2\exam2.cpp(176): warning C4309: '=': 상수 값이 잘립니다.
+  exam2.vcxproj -> C:\Users\KICT-05\Desktop\c_study\day5\Debug\exam2.exe
+  exam2.vcxproj -> C:\Users\KICT-05\Desktop\c_study\day5\Debug\exam2.pdb (Partial PDB)
